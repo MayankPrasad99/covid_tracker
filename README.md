@@ -1,3 +1,8 @@
+## Covid Cases Tracker
+This project shows the current figures of infected, recovered, and deaths due to covid 19 for different countries and shows it in the form of a line graph and bar graph.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
